@@ -24,8 +24,7 @@ By default, this action will automatically run every day
 You can modify it in `.github/workflows/run.yml`
 9. If you wish to modify the content in `README.md`, do not directly edit README.md. You should edit `template.md`.
 
-# To-do list
-- [ ]  Replace markdown with GitHub pages front-end.
+
 
 # Content
 [2025-06-05](data/2025-06-05.md)
@@ -191,6 +190,3 @@ You can modify it in `.github/workflows/run.yml`
 # Related tools
 - ICML, ICLR, NeurIPS list: https://dw-dengwei.github.io/OpenReview-paper-list/index.html
 
-# Star history
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dw-dengwei/daily-arXiv-ai-enhanced&type=Date)](https://www.star-history.com/#dw-dengwei/daily-arXiv-ai-enhanced&Date)
