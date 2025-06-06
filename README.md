@@ -26,6 +26,9 @@ You can modify it in `.github/workflows/run.yml`
 
 
 
+# Content
+[2025-06-06](data/2025-06-06.md)
+
 # Related tools
 - ICML, ICLR, NeurIPS list: https://dw-dengwei.github.io/OpenReview-paper-list/index.html
 

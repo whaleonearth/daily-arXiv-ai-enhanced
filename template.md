@@ -26,6 +26,9 @@ You can modify it in `.github/workflows/run.yml`
 
 
 
+# Content
+{readme_content}
+
 # Related tools
 - ICML, ICLR, NeurIPS list: https://dw-dengwei.github.io/OpenReview-paper-list/index.html
 
